@@ -9,7 +9,7 @@ Chat app server Netty: https://github.com/mtsinichi/chat-app-netty
 
 ## Features
 
-- Login
+- Login/ logout
 - Register
 - Chat two people
 - Chat group
