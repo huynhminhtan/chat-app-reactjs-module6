@@ -11,7 +11,7 @@ Chat app server Netty: https://github.com/mtsinichi/chat-app-netty
 
 - Login
 - Register
-- Chat two pepole
+- Chat two people
 - Chat group
 - History chat
 - Create conversations
